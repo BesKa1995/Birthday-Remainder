@@ -131,6 +131,7 @@ p {
   h2,
   h3,
   h4 {
+
     line-height: 1;
   }
 }
@@ -211,4 +212,13 @@ main {
   border-radius: var(--radius);
   outline: 1px solid rgba(242, 138, 178, 0.8);
   cursor: pointer;
+}
+
+.b {
+  color: wheat;
+  background-color: #ffc0cb;
+  width: 100px;
+  height: 40px;
+  border-radius: 4px;
+  
 }

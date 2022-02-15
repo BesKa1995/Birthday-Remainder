@@ -1,0 +1,2 @@
+export const CLEAR_ALL_PEOPLE = 'CLEAR_ALL_PEOPLE'
+
