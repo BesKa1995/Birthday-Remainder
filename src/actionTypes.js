@@ -1,2 +1,3 @@
 export const CLEAR_ALL_PEOPLE = 'CLEAR_ALL_PEOPLE'
 
+export const REMOVE_PERSON = 'REMOVE_PERSON'
